@@ -1,6 +1,6 @@
 # Shivray International – Air Cargo Management System
 
-MCA Final Year Java Swing + JDBC + MySQL project.
+Java Swing + JDBC + MySQL project.
 
 ## Requirements
 - JDK 17+
