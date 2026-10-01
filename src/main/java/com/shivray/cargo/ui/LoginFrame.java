@@ -405,6 +405,7 @@ public class LoginFrame extends JFrame {
                 Box.createVerticalStrut(20)
         );
 
+        
         // -----------------------------------------------------
         // Password
         // -----------------------------------------------------

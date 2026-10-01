@@ -48,6 +48,7 @@ public final class PdfReports {
                             )
                     )
             );
+            
 
             document.add(
                     new Paragraph(

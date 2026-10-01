@@ -10,6 +10,7 @@ public class AuthDAO {
 
     public String[] login(String u, String p) throws SQLException {
 
+    	
         String sql = "SELECT u.id, u.username, u.password_hash, u.full_name, r.name "
                    + "FROM users u "
                    + "JOIN roles r ON r.id = u.role_id "
